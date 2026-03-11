@@ -40,7 +40,7 @@ export default function Home() {
       <div className="mt-8 flex items-center justify-center gap-5">
         {[
           { 
-            href: "https://x.com/TECHSYNBAL", 
+            href: "https://x.com/HyperlinksSpace", 
             src: "/socials/01_x.svg", 
             alt: "X" 
           },
